@@ -132,13 +132,13 @@ When we work on a project, any internal library we create that could benefit the
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/voidari/flutter_signals_slots.svg?style=for-the-badge
-[contributors-url]: https://github.com/voidari/flutter_signals_slots/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/voidari/flutter_signals_slots.svg?style=for-the-badge
-[forks-url]: https://github.com/voidari/flutter_signals_slots/network/members
-[stars-shield]: https://img.shields.io/github/stars/voidari/flutter_signals_slots.svg?style=for-the-badge
-[stars-url]: https://github.com/voidari/flutter_signals_slots/stargazers
-[issues-shield]: https://img.shields.io/github/issues/voidari/flutter_signals_slots.svg?style=for-the-badge
-[issues-url]: https://github.com/voidari/flutter_signals_slots/issues
-[license-shield]: https://img.shields.io/github/license/voidari/flutter_signals_slots.svg?style=for-the-badge
-[license-url]: https://github.com/voidari/flutter_signals_slots/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/voidari/flutter-signals-slots.svg?style=for-the-badge
+[contributors-url]: https://github.com/voidari/flutter-signals-slots/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/voidari/flutter-signals-slots.svg?style=for-the-badge
+[forks-url]: https://github.com/voidari/flutter-signals-slots/network/members
+[stars-shield]: https://img.shields.io/github/stars/voidari/flutter-signals-slots.svg?style=for-the-badge
+[stars-url]: https://github.com/voidari/flutter-signals-slots/stargazers
+[issues-shield]: https://img.shields.io/github/issues/voidari/flutter-signals-slots.svg?style=for-the-badge
+[issues-url]: https://github.com/voidari/flutter-signals-slots/issues
+[license-shield]: https://img.shields.io/github/license/voidari/flutter-signals-slots.svg?style=for-the-badge
+[license-url]: https://github.com/voidari/flutter-signals-slots/blob/main/LICENSE
