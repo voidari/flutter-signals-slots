@@ -1,3 +1,6 @@
+# 1.1.2
+* Update name of the repo from flutter_signals_slots to flutter-signals-slots
+
 # 1.1.1
 * Fixes issue disconnecting during the emitting of a signal.
 
